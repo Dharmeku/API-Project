@@ -46,6 +46,7 @@ public class StandAloneTest {
 		driver.findElement(By.cssSelector("[routerlink*='cart']")).click();
 		
 		System.out.println("Cart icon is cliked");
+		System.out.println("Cart icon is again clicked");
 		
 		
 				
