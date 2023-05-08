@@ -55,6 +55,8 @@ public class StandAloneTest {
 		System.out.println("Passed");
 		System.out.println("Passed1");
 		System.out.println("Passed2");
+		System.out.println("Passed3");
+		System.out.println("Passed4");
 
 
 		driver.quit();
