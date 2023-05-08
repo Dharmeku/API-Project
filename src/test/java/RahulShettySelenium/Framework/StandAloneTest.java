@@ -53,6 +53,10 @@ public class StandAloneTest {
 		
 				
 		System.out.println("Passed");
+		System.out.println("Passed1");
+		System.out.println("Passed2");
+
+
 		driver.quit();
 		
 		
