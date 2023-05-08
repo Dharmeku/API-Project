@@ -47,6 +47,8 @@ public class StandAloneTest {
 		
 		System.out.println("Cart icon is cliked");
 		System.out.println("Cart icon is again clicked");
+		System.out.println("Cart icon is again and again clicked");
+
 		
 		
 				
